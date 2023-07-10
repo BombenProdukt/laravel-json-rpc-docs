@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,V as l}from"./chunks/framework.d3b95951.js";const i=JSON.parse('{"title":"Validation","description":"","frontmatter":{},"headers":[],"relativePath":"validation.md","filePath":"validation.md"}'),o={name:"validation.md"},p=l("",8),e=[p];function t(c,r,D,F,y,C){return a(),n("div",null,e)}const u=s(o,[["render",t]]);export{i as __pageData,u as default};
